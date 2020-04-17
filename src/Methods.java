@@ -1,5 +1,8 @@
 class Methods {
 
+    public Methods() {
+    }
+
     double distanceOfSegment(Segment segment){
         return segment.distance();
     }
